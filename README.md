@@ -19,7 +19,7 @@ developing solutions for handling big data for organisations and businesses.
 <img src="https://raw.githubusercontent.com/Butch78/CV/main/logos/docker-original-wordmark.svg" width="100" height="100">
 <img src="https://raw.githubusercontent.com/Butch78/CV/main/logos/kubernets.svg" width="100" height="100"> <br>
 
-## 👨‍💼👨‍💻Exprience
+## 👨‍💼👨‍💻 Experience
 
 **Software Engineer** @ [ANSTO](https://www.ansto.gov.au/products-services/work-us/industry-users/industry-access-clayton) Australian Nuclear Science and Technology Organisation _(May 2020 - Present)_
 
