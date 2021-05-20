@@ -2,7 +2,7 @@
 
 **Software Engineer based in Melbourne, Australia** <br>
 
-[Email](mailto:matthewtyleraylward@gmail.com) / [Website](matthewtyleraylward.com) / [LinkedIn](https://www.linkedin.com/in/matthew-aylward-78976965/) / [Twitter](https://twitter.com/Matthewtylerayl)
+[📩Email](mailto:matthewtyleraylward@gmail.com) / [🕸️Website](matthewtyleraylward.com) / [👨‍💼LinkedIn](https://www.linkedin.com/in/matthew-aylward-78976965/) / [🐦Twitter](https://twitter.com/Matthewtylerayl)
 
 <br>
 
@@ -19,7 +19,7 @@ developing solutions for handling big data for organisations and businesses.
 <img src="https://raw.githubusercontent.com/Butch78/CV/main/logos/docker-original-wordmark.svg" width="100" height="100">
 <img src="https://raw.githubusercontent.com/Butch78/CV/main/logos/kubernets.svg" width="100" height="100"> <br>
 
-## Exprience
+## 👨‍💼👨‍💻Exprience
 
 **Software Engineer** @ [ANSTO](https://www.ansto.gov.au/products-services/work-us/industry-users/industry-access-clayton) Australian Nuclear Science and Technology Organisation _(May 2020 - Present)_
 
@@ -43,7 +43,7 @@ Achievements:
 
 **Trainee Engineer** @ [Federation Council](https://www.federationcouncil.nsw.gov.au/Home) _(Feb 2011 -  Dec 2014)_
 
-## Education
+## 🧑‍🎓👨‍💻Education
 
 **Bachelor of Computer Science (Software Development)** @ [Swinburne University of Technology](https://www.swinburne.edu.au/) (2016-2019)
 
