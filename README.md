@@ -31,7 +31,7 @@ developing solutions for handling big data for organisations and businesses.
 
 - Development of an ETL
 
-**IBL Engineer (Development)** @ [National Australian BANK](https://www.nab.com.au/) _(Jan 2018 - Jan 2019)_
+**IBL Engineer (Development)** @ [National Australian Bank](https://www.nab.com.au/) _(Jan 2018 - Jan 2019)_
 
 - Implementing many automation processes to reduce manual tasks.
 
