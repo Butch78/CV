@@ -21,7 +21,7 @@ developing solutions for handling big data for organisations and businesses.
 
 ## Exprience
 
-**Software Engineer** @ [ANSTO](https://www.ansto.gov.au/products-services/work-us/industry-users/industry-access-clayton) Australian Nuclear Science and Technology Organisation _(2020 - Present)_
+**Software Engineer** @ [ANSTO](https://www.ansto.gov.au/products-services/work-us/industry-users/industry-access-clayton) Australian Nuclear Science and Technology Organisation _(May 2020 - Present)_
 
 - Notification API
 - Identity API
@@ -31,11 +31,11 @@ developing solutions for handling big data for organisations and businesses.
 
 - Development of an ETL
 
-**IBL Engineer (Development)** @ [National Australian BANK](https://www.nab.com.au/)
+**IBL Engineer (Development)** @ [National Australian BANK](https://www.nab.com.au/) _(Jan 2018 - Jan 2019)_
 
 - Implementing many automation processes to reduce manual tasks.
 
-**Trainee Engineer** @ [Federation Council](https://www.federationcouncil.nsw.gov.au/Home)
+**Trainee Engineer** @ [Federation Council](https://www.federationcouncil.nsw.gov.au/Home) _(Feb 2011 -  Dec 2014)_
 
 ## Education
 
