@@ -15,10 +15,10 @@ developing solutions for handling big data for organisations and businesses.
 
 ### Software Development
 
-<img src="https://raw.githubusercontent.com/Butch78/CV/main/logos/python.svgpython.svg" width="100" height="100">
-<img src="https://raw.githubusercontent.com/Butch78/CV/main/logos/python.svgfastapi.svg" width="100" height="100">
-<img src="https://raw.githubusercontent.com/Butch78/CV/main/logos/python.svgdocker-original-wordmark.svg" width="100" height="100">
-<img src="https://raw.githubusercontent.com/Butch78/CV/main/logos/python.svgkubernets.svg" width="100" height="100">
+<img src="https://raw.githubusercontent.com/Butch78/CV/main/logos/python.svg" width="100" height="100">
+<img src="https://raw.githubusercontent.com/Butch78/CV/main/logos/fastapi.svg" width="100" height="100">
+<img src="https://raw.githubusercontent.com/Butch78/CV/main/logos/svgdocker-original-wordmark.svg" width="100" height="100">
+<img src="https://raw.githubusercontent.com/Butch78/CV/main/logos/svgkubernets.svg" width="100" height="100">
 
 
 <br>
