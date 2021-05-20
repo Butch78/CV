@@ -23,17 +23,23 @@ developing solutions for handling big data for organisations and businesses.
 
 **Software Engineer** @ [ANSTO](https://www.ansto.gov.au/products-services/work-us/industry-users/industry-access-clayton) Australian Nuclear Science and Technology Organisation _(May 2020 - Present)_
 
-- Notification API
+Achievements:
+
+- DevelopedNotification API
 - Identity API
 - QR Code Generator & Contact Tracing Application
 
 **Product Developer** @ [Loome Software](https://loomesoftware.com/) _(Jan 2019 – May 2020)_
 
-- Development of an ETL
+Achievements:
+
+- Developement of an ETL (Extract Load Trander) Application
 
 **IBL Engineer (Development)** @ [National Australian Bank](https://www.nab.com.au/) _(Jan 2018 - Jan 2019)_
 
-- Implementing many automation processes to reduce manual tasks.
+Achievements:
+
+- Implemented many automation processes to reduce manual tasks.
 
 **Trainee Engineer** @ [Federation Council](https://www.federationcouncil.nsw.gov.au/Home) _(Feb 2011 -  Dec 2014)_
 
