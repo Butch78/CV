@@ -25,7 +25,7 @@ developing solutions for handling big data for organisations and businesses.
 
 Achievements:
 
-- DevelopedNotification API
+- Notification API
 - Identity API
 - QR Code Generator & Contact Tracing Application
 
