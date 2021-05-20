@@ -15,14 +15,18 @@ developing solutions for handling big data for organisations and businesses.
 
 ### Software Development
 
-<img src="./logos/python.svg" width="100" height="100">
-<img src="./logos/fastapi.svg" width="100" height="100">
-<img src="./logos/docker-original-wordmark.svg" width="100" height="100">
-<img src="./logos/kubernets.svg" width="100" height="100">
+<img src="https://github.com/Butch78/CV/blob/main/logos/python.svg" width="100" height="100">
+<img src="https://github.com/Butch78/CV/blob/main/logos/fastapi.svg" width="100" height="100">
+<img src="https://github.com/Butch78/CV/blob/main/logos/docker-original-wordmark.svg" width="100" height="100">
+<img src="https://github.com/Butch78/CV/blob/main/logos/kubernets.svg" width="100" height="100">
 
 
 <br>
 
 
 
+
+
 # Education
+
+Swinburne University
