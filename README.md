@@ -1,6 +1,6 @@
 # Matthew Aylward
 
-**Software Engineer based in Melbourne, Australia** <br>
+**Software Engineer based in Zurich, Switzerland** <br>
 
 [📩Email](mailto:matthewtyleraylward@gmail.com) / [🕸️Website](matthewtyleraylward.com) / [👨‍💼LinkedIn](https://www.linkedin.com/in/matthew-aylward-78976965/) / [🐦Twitter](https://twitter.com/Matthewtylerayl)
 
