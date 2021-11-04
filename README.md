@@ -45,7 +45,7 @@ Achievements:
 
 ## 🧑‍🎓👨‍💻Education
 
-**Master's in Informatics (Software Development)** @ [University of Zurich](https://www.uzh.ch/en.html) (2021 - Present)
+**Master's in Informatics (Software Systems)** @ [University of Zurich](https://www.uzh.ch/en.html) (2021 - Present)
 
 Key Study Areas: 
 
