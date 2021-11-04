@@ -21,7 +21,7 @@ developing solutions for handling big data for organisations and businesses.
 
 ## 👨‍💼👨‍💻 Experience
 
-**Software Engineer** @ [ANSTO](https://www.ansto.gov.au/products-services/work-us/industry-users/industry-access-clayton) Australian Nuclear Science and Technology Organisation _(May 2020 - Present)_
+**Software Engineer** @ [ANSTO](https://www.ansto.gov.au/products-services/work-us/industry-users/industry-access-clayton) Australian Nuclear Science and Technology Organisation _(May 2020 - Feburary 2021)_
 
 Achievements:
 
@@ -44,6 +44,15 @@ Achievements:
 **Trainee Engineer** @ [Federation Council](https://www.federationcouncil.nsw.gov.au/Home) _(Feb 2011 -  Dec 2014)_
 
 ## 🧑‍🎓👨‍💻Education
+
+**Master's in Informatics (Software Development)** @ [University of Zurich](https://www.uzh.ch/en.html) (2021 - Present)
+
+Key Study Areas: 
+
+- Data Science
+- Distributed Systems 
+- Machine Learning
+- Fintech & Digital Innovation 
 
 **Bachelor of Computer Science (Software Development)** @ [Swinburne University of Technology](https://www.swinburne.edu.au/) (2016-2019)
 
