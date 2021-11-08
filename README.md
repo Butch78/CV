@@ -6,9 +6,7 @@
 
 <br>
 
-I have completed a Degree in Computer Science at Swinburne University, with my Degree I would like to work
-in the Big Data or Fintech space. After working for ANSTO as a Software Engineer I know my passion is
-developing solutions for handling big data for organisations and businesses.
+I am currently studying my Masters in Computer Science at the University of Zurich,  with my Degree I would like to work in the Big Data or Fintech space. After working for ANSTO as a Software Engineer I know my passion is developing solutions for handling big data for organisations and businesses.
 
 ## Skills Summary
 
